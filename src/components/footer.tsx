@@ -27,7 +27,7 @@ export default function FooterSection() {
                     href="/"
                     aria-label="go home"
                     className="mx-auto block size-fit">
-                    <span className='text-xl text-neutral-200'>Google Developers Group</span>
+                    <span className='text-xl text-neutral-200'>Google Developer Group</span>
                 </Link>
 
                 <div className="my-8 flex flex-wrap justify-center gap-6 text-sm">

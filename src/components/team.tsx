@@ -8,14 +8,14 @@ const coreLead = [
 
 const techLead = [
     {
-        name: 'Sohan Rout',
-        role: 'Frontend & Ui/Ux',
-        avatar: './team/sohan.webp',
-    },
-    {
         name: 'Manas Thakur',
         role: 'Fullstack',
         avatar: './team/manas.webp',
+    },
+    {
+        name: 'Sohan Rout',
+        role: 'Frontend & Ui/Ux',
+        avatar: './team/sohan.webp',
     },
 ]
 
@@ -23,12 +23,12 @@ const designLead = [
     {
         name: 'Manav Tuli',
         role: 'Graphics',
-        avatar: 'https://avatars.githubusercontent.com/u/47919550?v=4',
+        avatar: './team/manav.jpeg',
     },
     {
         name: 'Bhumika Yadav',
         role: 'Public Relations',
-        avatar: 'https://avatars.githubusercontent.com/u/47919550?v=4',
+        avatar: './team/bhumi.jpg',
     },
 ]
 
