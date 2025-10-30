@@ -30,19 +30,19 @@ const Gallery6 = ({
   items = [
     {
       id: "item-1",
-      title: "Build Modern UIs",
+      title: "Cloud Study Jams Info Session",
       summary:
-        "Create stunning user interfaces with our comprehensive design system.",
-      url: "#",
-      image: "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg",
+        "Want to build practical cloud and GenAI skills? Attend the Cloud Study Jams Info Session on Tuesday, 30 Sept at 19:30 PM (Hybrid). We’ll explain the Study Jam format, the Skill Badges you’ll complete, access to Google Skill Boost courses, and how to complete the study Jam. Perfect for beginners and builders alike — bring questions. Don't miss this opportunity to jumpstart your journey in cloud technologies and AI! Join us and discover how you can gain valuable skills with hands-on practice and expert guidance.",
+      url: "https://gdg.community.dev/events/details/google-gdg-on-campus-dronacharya-college-of-engineering-gurugram-india-presents-cloud-study-jams-info-session/",
+      image: "https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.0_mul_h_sub_0.0_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/blob_RR4axNE",
     },
     {
       id: "item-2",
-      title: "Computer Vision Technology",
+      title: "HOW TO BUILD WITH  AI",
       summary:
-        "Powerful image recognition and processing capabilities that allow AI systems to analyze, understand, and interpret visual information from the world.",
-      url: "#",
-      image: "https://deifkwefumgah.cloudfront.net/shadcnblocks/block/placeholder-dark-1.svg",
+        "Artificial Intelligence is shaping the future, and now is the time to build with it! Google Developer Groups (GDG) presents 'Build with AI', an immersive event designed to equip developers, students, and AI enthusiasts with the knowledge and tools to harness AI’s full potential.",
+      url: "https://gdg.community.dev/events/details/google-gdg-on-campus-dronacharya-college-of-engineering-gurugram-india-presents-how-to-build-with-ai/",
+      image: "https://res.cloudinary.com/startup-grind/image/upload/c_scale,w_2560/c_crop,h_640,w_2560,y_0.0_mul_h_sub_0.0_mul_640/c_crop,h_640,w_2560/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-goog/event_banners/gd%20logo_YLM1yfn.jpg",
     },
     {
       id: "item-3",
@@ -142,13 +142,13 @@ const Gallery6 = ({
                   className="group flex flex-col justify-between"
                 >
                   <div>
-                    <div className="aspect-3/2 flex overflow-clip rounded-xl">
+                    <div className="aspect-7/2 flex overflow-clip rounded-xl">
                       <div className="flex-1">
                         <div className="relative h-full w-full origin-bottom transition duration-300 group-hover:scale-105">
                           <img
                             src={item.image}
                             alt={item.title}
-                            className="h-full w-full object-cover object-center"
+                            className="w-full object-center"
                           />
                         </div>
                       </div>
