@@ -8,14 +8,14 @@ const coreLead = [
 
 const techLead = [
     {
-        name: 'Sohan Rout',
-        role: 'Frontend & Ui/Ux',
-        avatar: './team/sohan.webp',
-    },
-    {
         name: 'Manas Thakur',
         role: 'Fullstack',
         avatar: './team/manas.webp',
+    },
+    {
+        name: 'Sohan Rout',
+        role: 'Frontend & Ui/Ux',
+        avatar: './team/sohan.webp',
     },
 ]
 
